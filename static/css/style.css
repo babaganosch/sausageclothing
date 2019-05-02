@@ -52,4 +52,8 @@ ul, ol {
         font-size: 1em;
     }
 
+    .bloat {
+        width: 100%;
+    }
+
 }
