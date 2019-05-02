@@ -49,7 +49,7 @@ ul, ol {
 @media (max-width: 768px) {
 
     body {
-        font-size: 1em;
+        font-size: 0.8em;
     }
 
     .bloat {
