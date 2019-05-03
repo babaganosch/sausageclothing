@@ -1,16 +1,6 @@
 /*@import url(/static/noway_regular/stylesheet.css);*/
 @import url(/static/bariol/stylesheet.css);
 
-strong {
-    font-weight: normal;
-    font-family: 'bariol_boldbold';
-    letter-spacing: 1px;
-}
-
-b {
-    letter-spacing: 0.5px;
-}
-
 html {
 }
 
@@ -21,6 +11,16 @@ body {
     padding:    0px;
     font-size:  0.36cm;
     -webkit-text-stroke: 0.6px;
+}
+
+strong {
+    font-weight: normal;
+    font-family: 'bariol_boldbold';
+    letter-spacing: 1px;
+}
+
+b {
+    letter-spacing: 0.5px;
 }
 
 a.blue:link, a.blue:visited, a.blue:hover, a.blue:active {
@@ -47,10 +47,6 @@ ul, ol {
 
 /* Phone adjustments */
 @media (max-width: 768px) {
-
-    body {
-        font-size: 0.8em;
-    }
 
     .bloat {
         width: 100%;
