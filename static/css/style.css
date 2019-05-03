@@ -48,6 +48,11 @@ ul, ol {
 /* Phone adjustments */
 @media (max-width: 768px) {
 
+    .nav-item {
+        font-size:  0.30cm;
+        padding:    2px;
+    }
+
     .bloat {
         width: 100%;
     }
