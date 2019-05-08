@@ -1,6 +1,6 @@
 collections:
-  - posts
+  - poster
 
 collections:
-  posts:
+  poster:
     output: true
