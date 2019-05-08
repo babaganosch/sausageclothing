@@ -1,8 +1,11 @@
 ---
 layout: view
-title: TEST
+title: TEST1
 
-image: 0003_stor.jpg
+thumbnail: 0003.jpg
+shortDesc:  TEST!
+textUnder:  TEST!
+
 text: Here is some text, yahooo!
 description: Image!!
 
