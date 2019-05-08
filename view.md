@@ -1,3 +1,4 @@
 ---
 layout: view
+title: TEST
 ---
