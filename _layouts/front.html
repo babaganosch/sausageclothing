@@ -48,12 +48,10 @@
 
                         {% for post in site.posts %}
 
-                        TEST
-
                         <div class="col-6 col-md-4 text-center mb-3">
                             <a href="{{ post.url }}" class="text-dark">
-                                <img src="static/content/img/{{ post.thumbnail }}.jpg" class="img-fluid" alt="{{ post.shortDesc }}"><br>
-                                {{ post.textUnder }}
+                                <img src="static/content/img/{{ post.thumbnail }}.jpg" class="img-fluid" alt="{{ post.imgDesc }}"><br>
+                                {{ post.description }}
                             </a>
                         </div>
 

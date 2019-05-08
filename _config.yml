@@ -1,2 +1,6 @@
 collections:
   - posts
+
+collections:
+  posts:
+    output: true
