@@ -3,10 +3,10 @@ layout: view
 
 title: Sausage Plz - SNES
 
-thumbnail:   0004.jpg
+thumbnail:   0008.jpg
 imgDesc:     SNES
 description: SNES
 
-image:       0004_stor.jpg
+image:       0008_stor.jpg
 text:        Super Nintendo
 ---
