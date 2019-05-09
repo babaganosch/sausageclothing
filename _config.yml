@@ -4,3 +4,4 @@ collections:
 collections:
   poster:
     output: true
+    permalink: /item
